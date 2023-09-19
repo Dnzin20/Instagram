@@ -55,7 +55,7 @@
           Welcome to your Nuxt Application
         </h2>
         <p class="mt-3 text-gray-600">
-          We recommend you take a look at the
+          Bienvenidos a Instagram salu2 desde dev1
           <a
             href="https://nuxtjs.org"
             target="_blank"
